@@ -1,4 +1,5 @@
-> **Deprecated** This project won't be supported anymore, I'll porbably work on a Sponge port soon
+> **Deprecated** This project won't be supported anymore, I'll probably work on a Sponge port soon<br>
+> Sponge port available at [SkeleticMobs Rewritten](https://github.com/Techie-Pi/SkeleticMobsRewritten)
 
 # Skeletic Mobs
 
